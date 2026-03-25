@@ -33,3 +33,5 @@ terraform destroy -var-file="environments/dev.tfvars"
 
 ## Author
 Kashmitha — DevOps Engineer (Intern)
+
+This project is licensed under the MIT License — see the LICENSE file for details.
